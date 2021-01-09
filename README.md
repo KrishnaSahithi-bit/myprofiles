@@ -25,10 +25,19 @@ As Kanye West said:
 I think you should use an
 `<addr>` element here instead.
 
-```
+```python
 def iseven(n):
 if n%2==0 :
  print(even)
 else:
  print(odd)
 ```
+s.no|name|emailid
+----|----|------
+1|Sahithi|sahithi@gmail.com
+2|Deepthi|deepthi@gmail.com
+
+:sleeping:
+
+
+
